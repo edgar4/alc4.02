@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338178245376",
+    "firebase_url": "https://alc-challenge2-baf98.firebaseio.com",
+    "project_id": "alc-challenge2-baf98",
+    "storage_bucket": "alc-challenge2-baf98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338178245376:android:2d1548aa44dd865f",
+        "android_client_info": {
+          "package_name": "ke.co.edgar.alc42"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338178245376-13cabng2hrn8ka20ddricjqn32rju5r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeiQM3MAZ6WgOhcNdq9h8lB4RReQFUgqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338178245376-13cabng2hrn8ka20ddricjqn32rju5r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
